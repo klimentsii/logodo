@@ -58,7 +58,7 @@ hr {
     height: 100vh;
     min-height: 820px;
     position: relative;
-    background: url("/logodo/assets/images/index/background.png") center no-repeat;
+    background: url("/assets/images/index/background.png") center no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
 }
